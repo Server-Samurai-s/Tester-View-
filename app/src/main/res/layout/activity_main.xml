@@ -20,13 +20,7 @@
 
 
 
-    <com.example.testerviews.CustomView2
-        android:id="@+id/customView2"
-        android:layout_width="400dp"
-        android:layout_height="350dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp" />
+
 
 
 </LinearLayout>
